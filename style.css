@@ -1,5 +1,13 @@
 
 header { 
+    margin:0 16px ;
+    padding: 24px;;
     background-color: green;
     color: white;
+    display: flex;
+    justify-content:space-around;
+    
      }
+    
+    section {background-color: green
+        color: white;}
